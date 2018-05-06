@@ -15,3 +15,5 @@ console.log(result(5));
 
 console.log('amit garg');
 
+console.log('test');
+
